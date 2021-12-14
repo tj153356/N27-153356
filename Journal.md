@@ -11,4 +11,7 @@
 
 ## 16.11.2021
 
-
+## 14.12.2021
+* Bild einfügen
+* Unterschied zwischen JPG/JPEG und PNG verstehen
+* Alt-Tag beim Bild verstehen
