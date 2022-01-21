@@ -12,4 +12,9 @@ const server = app.listen(process.env.PORT || 3000, () => {
 app.get('/',(req, res, next) => {              
     res.render('index.ejs', {})          
 })
+//Wenn die login-Seite im Browser aufgerufen wird, dann wird die login.ejs vom Server gerendert an den Browser zurückgegeben:
 
+
+app.get('/login',(req, res, next) => {              
+    res.render('login.ejs', {})          
+})
