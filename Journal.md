@@ -15,3 +15,7 @@
 * Bild einfügen
 * Unterschied zwischen JPG/JPEG und PNG verstehen
 * Alt-Tag beim Bild verstehen
+
+## 25.04.2021
+* Das geht mir alles zu nflott hier, ich bin komplett inkompetent, und weiß nicht, was ich tu lmao
+* 
